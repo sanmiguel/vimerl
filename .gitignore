@@ -1,3 +1,4 @@
 *~
 .*.swp
 tags
+autoload/vimerl_cache
